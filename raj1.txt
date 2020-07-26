@@ -1,3 +1,6 @@
 THIS is conflict checking
 2nd lne added in github
 lets see
+this is from bash
+git add .
+i
